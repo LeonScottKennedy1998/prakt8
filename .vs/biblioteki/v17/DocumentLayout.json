@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5F3D58-0A30-4C87-956D-88167F622DA4}|biblioteki\\biblioteki.vcxproj|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\biblioteki\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE5F3D58-0A30-4C87-956D-88167F622DA4}|biblioteki\\biblioteki.vcxproj|solutionrelative:biblioteki\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F6EFB7-AAFD-44DB-BD6C-7F132D9A55A0}|DynamicLib\\DynamicLib.vcxproj|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\DynamicLib\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9F6EFB7-AAFD-44DB-BD6C-7F132D9A55A0}|DynamicLib\\DynamicLib.vcxproj|solutionrelative:DynamicLib\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F6EFB7-AAFD-44DB-BD6C-7F132D9A55A0}|DynamicLib\\DynamicLib.vcxproj|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\DynamicLib\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9F6EFB7-AAFD-44DB-BD6C-7F132D9A55A0}|DynamicLib\\DynamicLib.vcxproj|solutionrelative:DynamicLib\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|solutionrelative:StaticLib\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\StaticLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|solutionrelative:StaticLib\\StaticLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|solutionrelative:StaticLib\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|solutionrelative:StaticLib\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C428AE1-9920-4897-90E3-952A4C1AA8B4}|StaticLib\\StaticLib.vcxproj|solutionrelative:StaticLib\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\DynamicLib\\Header.h",
+              "RelativeDocumentMoniker": "DynamicLib\\Header.h",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\DynamicLib\\Header.h",
+              "RelativeToolTip": "DynamicLib\\Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T15:44:55.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\DynamicLib\\dllmain.cpp",
+              "RelativeDocumentMoniker": "DynamicLib\\dllmain.cpp",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\DynamicLib\\dllmain.cpp",
+              "RelativeToolTip": "DynamicLib\\dllmain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T15:42:54.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\framework.h",
+              "RelativeDocumentMoniker": "StaticLib\\framework.h",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\framework.h",
+              "RelativeToolTip": "StaticLib\\framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T15:37:38.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pch.h",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\pch.h",
+              "RelativeDocumentMoniker": "StaticLib\\pch.h",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\pch.h",
+              "RelativeToolTip": "StaticLib\\pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T15:37:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\pch.cpp",
+              "RelativeDocumentMoniker": "StaticLib\\pch.cpp",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\pch.cpp",
+              "RelativeToolTip": "StaticLib\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T15:37:30.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Header.h",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\Header.h",
+              "RelativeDocumentMoniker": "StaticLib\\Header.h",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\Header.h",
+              "RelativeToolTip": "StaticLib\\Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T15:37:00.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticLib.cpp",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\StaticLib.cpp",
+              "RelativeDocumentMoniker": "StaticLib\\StaticLib.cpp",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\StaticLib\\StaticLib.cpp",
+              "RelativeToolTip": "StaticLib\\StaticLib.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T15:34:22.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\biblioteki\\test.cpp",
+              "RelativeDocumentMoniker": "biblioteki\\test.cpp",
+              "ToolTip": "D:\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\biblioteki\\biblioteki\\test.cpp",
+              "RelativeToolTip": "biblioteki\\test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T15:33:49.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
